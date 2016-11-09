@@ -1,1 +1,1 @@
-# digital-clock.github.io
+# Make a DIGITAL CLOCK with function method
